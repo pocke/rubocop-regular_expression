@@ -1,1 +1,5 @@
 # Write it!
+
+RegularExpression/MixedCaptureTypes:
+  Description: 'Do not mix named captures and numbered captures'
+  Enabled: true

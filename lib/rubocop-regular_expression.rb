@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'rubocop'
+require 'regexp_parser'
 
 require_relative 'rubocop/regular_expression'
 require_relative 'rubocop/regular_expression/version'
